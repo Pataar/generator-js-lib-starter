@@ -37,7 +37,7 @@ npm install -g generator-js-lib-starter
 ## How do you use this?
 Set your current directory to the directory where you want to generate the starter. And run:
 ```sh
-yo js-library
+yo js-lib-starter
 ```
 
 ## Contributing
