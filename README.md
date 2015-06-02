@@ -1,4 +1,4 @@
-# Pataar/generator-js-library
+# Pataar/generator-js-lib-starter
 A generator for [Yeoman](http://yeoman.io) which creates a simple library/plugin starter
 
 ## What do you get?
@@ -30,7 +30,7 @@ npm install -g yo
 After that run:
 
 ```sh
-npm install -g generator-js-library
+npm install -g generator-js-lib-starter
 ```
 
 ## How do you use this?

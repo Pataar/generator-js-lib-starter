@@ -1,11 +1,11 @@
 {
-  "name": "generator-js-library",
+  "name": "generator-js-lib-starter",
   "version": "1.0.0",
   "description": "Generator for Yeoman. To generate Plugin or Library starters.",
   "main": "app/index.js",
   "repository": {
     "type": "git",
-    "url": "https://Pataar@github.com/Pataar/generator-js-library.git"
+    "url": "https://Pataar@github.com/Pataar/generator-js-lib-starter.git"
   },
   "keywords": [
     "yeoman-generator"
@@ -13,9 +13,9 @@
   "author": "Pataar",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Pataar/generator-js-library/issues"
+    "url": "https://github.com/Pataar/generator-js-lib-starter/issues"
   },
-  "homepage": "https://github.com/Pataar/generator-js-library",
+  "homepage": "https://github.com/Pataar/generator-js-lib-starter",
   "dependencies": {
     "yeoman-generator": "^0.20.1"
   }
