@@ -1,6 +1,6 @@
 {
   "name": "generator-js-lib-starter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generator for Yeoman. To generate Plugin or Library starters.",
   "main": "app/index.js",
   "repository": {
