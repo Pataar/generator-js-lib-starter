@@ -3,20 +3,21 @@ A generator for [Yeoman](http://yeoman.io) which creates a simple library/plugin
 
 ## What do you get?
 * Creates this starter setup
-    .
-    ├── dist   
-    |   ├── {project}.js
-    |   └── {project}.min.js
-    ├── docs
-    ├── src
-    │   ├── lib
-    │   └── main.js
-    ├── .gitignore
-    ├── gulpfile.js
-    ├── package.json
-    ├── bower.json
-    ├── README.md
-
+```
+.
+├── dist   
+|	├── {project}.js
+|	└── {project}.min.js
+├── docs
+├── src
+│	├── lib
+│	└── main.js
+├── .gitignore
+├── gulpfile.js
+├── package.json
+├── bower.json
+├── README.md
+```
 * Creates some handy gulp tasks
 
 ## How do you install this?
