@@ -1,0 +1,13 @@
+{
+  "name": "<%= projectname %>",
+  "version": "<%= version %>",
+  "authors": [
+    "<%= author %>"
+  ],
+  "description": "<%= description %>",
+  "license": "MIT",
+  "ignore": [
+    "./**/*",
+    "!dist/*"
+  ]
+}
